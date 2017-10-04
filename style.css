@@ -1,0 +1,52 @@
+button.animal {
+	margin: 10px;
+	color: #F6EDD3;
+	background-color: #01492b;
+	border-color: #01492b;
+	box-shadow: inset 0 0 0 1px #27496d;
+}
+#buttons-view {
+	float: left;
+	width: 65%;
+}
+button.animal:hover {
+	margin: 10px;
+	color: #01492b;
+	background-color: #F6EDD3;
+	border-color: #F6EDD3;
+}
+form {
+	float: right;
+}
+.gif {
+	clear: both;
+}
+#add-animal {
+	color: #F6EDD3;
+	background-color: #01492b;
+	border-color: #01492b;
+	box-shadow: inset 0 0 0 1px #27496d;
+}
+#add-animal:hover {
+	color: #01492b;
+	background-color: #F6EDD3;
+	border-color: #F6EDD3;
+}
+body {
+	background: url("http://www.powerpointhintergrund.com/download/jungle-background-wallpapersafari-4315") no-repeat center center fixed;
+	background-size: cover;
+}
+label {
+	font-size: 20px;
+	font-style: bold;
+	font-family: "Arial Black", sans-serif;
+	color: #01492b;
+	margin-right: 10px;
+}
+#add-animal {
+	float: right;
+}
+#animals-view {
+	clear: both;
+	float: left;
+}
